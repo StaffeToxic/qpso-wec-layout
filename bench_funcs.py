@@ -1,4 +1,4 @@
-# Copyright (c) 2026 Anthony Oliveira. All rights reserved.
+# Copyright (c) 2026 Anthony Oliveira. Licensed under the MIT License.
 # See LICENSE for terms.
 
 """Smooth analytic benchmark surfaces with known optima.

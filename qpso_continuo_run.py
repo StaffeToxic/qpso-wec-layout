@@ -1,4 +1,4 @@
-# Copyright (c) 2026 Anthony Oliveira. All rights reserved.
+# Copyright (c) 2026 Anthony Oliveira. Licensed under the MIT License.
 # See LICENSE for terms.
 
 """Fase 2 end-to-end: run the refactored ContinuousQPSO on REAL WEC data using

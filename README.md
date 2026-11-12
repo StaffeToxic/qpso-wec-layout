@@ -1,7 +1,8 @@
 # Quantum-behaved PSO (QPSO) for Wave Energy Converter (WEC) Layout Optimization
 
-> **Notice:** Copyright (c) 2026 Anthony Oliveira. All rights reserved. See [LICENSE](LICENSE) for details.
-> Code, documentation, and figures in this repository are published for scholarly inspection and reference. Reproduction, redistribution, or reuse in derivative works requires prior written permission from the copyright holder.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> Released under the [MIT License](LICENSE). If you use this code in academic work, please cite it (see [Citation](#citation)).
 
 ---
 
@@ -126,7 +127,11 @@ Example of spatial configuration of 49 WEC buoys under hydrodynamic and spatial 
 
 ---
 
+## Citation
+
+If you use this software, please cite it using the metadata in [CITATION.cff](CITATION.cff)
+(GitHub's "Cite this repository" button exports it as APA or BibTeX).
+
 ## License
 
-Copyright (c) 2026 Anthony Oliveira. All rights reserved.
-See [LICENSE](LICENSE) for terms.
+Copyright (c) 2026 Anthony Oliveira. Released under the [MIT License](LICENSE).

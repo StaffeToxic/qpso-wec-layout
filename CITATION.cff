@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "QPSO-WEC-Layout: Quantum-behaved PSO and hybrid ML surrogates for Wave Energy Converter layout optimization"
+type: software
+authors:
+  - family-names: "Fernandes Oliveira"
+    given-names: "Anthony Emanuel"
+    email: "staffetoxic@gmail.com"
+    affiliation: "Universidade Federal do Paraná (UFPR)"
+repository-code: "https://github.com/StaffeToxic/qpso-wec-layout"
+license: MIT
+keywords:
+  - quantum-behaved particle swarm optimization
+  - QPSO
+  - wave energy converter
+  - layout optimization
+  - surrogate models
+  - metaheuristics
